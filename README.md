@@ -17,7 +17,5 @@ Start frontend:
 (venv) S:\src\developer-code-test-v2\client>npm start
 
 Very important to go to:
- On Your Network:  http://192.168.1.2:3000  
- Refresh page and wat 10-15 seconds.
- Do not use local host, Localhost will NOT run page .
+ A browser window should automatically open and display the results
 
